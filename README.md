@@ -28,6 +28,3 @@ Conheça o projeto: [MariaIA](https://usemariaia.com)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ngrok/ngrok-original.svg" style="padding-right: 10px;" align="left" width="30px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" style="padding-right: 10px;" align="left" width="30px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" style="padding-right: 10px;" align="left" width="30px" />
-
-<br/>
-<br/>
