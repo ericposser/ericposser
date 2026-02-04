@@ -24,8 +24,6 @@ Me chamo Eric, tenho 24 anos e sou natural do Rio Grande do Sul. Atualmente, cur
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" style="padding-right: 10px;" align="left" width="30px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" style="padding-right: 10px;" align="left" width="30px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right: 10px;" align="left" width="30px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" style="padding-right: 10px;" align="left" width="30px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" style="padding-right: 10px;" align="left" width="30px" />
 
           
           
