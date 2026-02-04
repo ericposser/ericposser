@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Eric Posser
+# 👨🏻‍💻 Eric Pereira Posser
 
 **`Desenvolvedor .NET`**
 
