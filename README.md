@@ -2,11 +2,11 @@
 
 **`Desenvolvedor .NET`**
 
-Me chamo Eric, tenho 24 anos e sou natural do Rio Grande do Sul. Atualmente, curso Sistemas de Informação na Universidade Franciscana (UFN). Sou apaixonado por tecnologia desde pequeno e estudo desenvolvimento de software há mais de 4 anos e atuo no mercado de trabalho há mais de 2 anos, com foco atual na criação de aplicações web utilizando a plataforma .NET.
+Me chamo Eric, tenho 24 anos e sou natural do Rio Grande do Sul. Atualmente, curso Sistemas de Informação na UFN – Universidade Franciscana. Sou apaixonado por tecnologia desde pequeno e estudo desenvolvimento de software há mais de 4 anos, atuando no mercado de trabalho há mais de 2 anos, com foco na criação de aplicações web e APIs utilizando a plataforma .NET.
 
----
+##
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Stack
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="padding-right: 10px;" align="left" width="30px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" style="padding-right: 10px;" align="left" width="30px" />
@@ -25,5 +25,8 @@ Me chamo Eric, tenho 24 anos e sou natural do Rio Grande do Sul. Atualmente, cur
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" style="padding-right: 10px;" align="left" width="30px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right: 10px;" align="left" width="30px" />
 
-          
-          
+<br clear="left" />
+
+##
+
+<img src="https://raw.githubusercontent.com/ericposser/ericposser/output/snake.svg" alt="Snake animation" />
