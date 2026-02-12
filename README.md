@@ -2,7 +2,7 @@
 
 # 👨🏻‍💻 Eric Pereira Posser
 
-**`Desenvolvedor .NET`**
+**`Desenvolvedor .NET | Back-end`**
 
 Me chamo Eric, tenho 24 anos e sou natural do Rio Grande do Sul. Atualmente, curso Sistemas de Informação na UFN – Universidade Franciscana. Sou apaixonado por tecnologia desde pequeno e estudo desenvolvimento de software há mais de 4 anos, atuando no mercado de trabalho há mais de 2 anos, com foco na criação de aplicações web e APIs utilizando a plataforma .NET.
 
