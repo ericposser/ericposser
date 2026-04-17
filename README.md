@@ -8,6 +8,14 @@ Me chamo Eric, tenho 24 anos e sou natural do Rio Grande do Sul. Atualmente, cur
 
 ##
 
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericposser&layout=compact&theme=dark&hide=javascript,html,css"/>
+          &nbsp;&nbsp;
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ericposser&show_icons=true&theme=dark"/>
+</div>
+
+##
+
 ### 🛠️ Ferramentas & Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="margin: 6px;" width="40px" />
