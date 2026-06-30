@@ -4,7 +4,7 @@
 
 **`Desenvolvedor .NET`**
 
-Me chamo Eric, tenho 24 anos e sou natural do Rio Grande do Sul. Atualmente, curso Sistemas de Informação na <a href="https://site.ufn.edu.br/" target="_blank">UFN – Universidade Franciscana</a> e atuo como desenvolvedor na <a href="https://appelsoft.com.br/" target="_blank">Appelsoft</a>, no projeto <a href="https://frotacerta.com.br/" target="_blank">FrotaCerta</a>. Sou apaixonado por tecnologia desde pequeno e estudo desenvolvimento de software há mais de 5 anos, atuando no mercado de trabalho há mais de 2 anos, com foco na criação de aplicações web e APIs utilizando a plataforma .NET.
+Me chamo Eric, tenho 24 anos e sou natural do Rio Grande do Sul. Atualmente, curso Sistemas de Informação na <a href="https://site.ufn.edu.br/" target="_blank">UFN – Universidade Franciscana</a> e atuo como desenvolvedor na <a href="https://appelsoft.com.br/" target="_blank">Appelsoft</a>. Sou apaixonado por tecnologia desde pequeno e estudo desenvolvimento de software há mais de 5 anos, atuando no mercado de trabalho há mais de 2 anos, com foco na criação de aplicações web e APIs utilizando a plataforma .NET.
 
 ##
 
